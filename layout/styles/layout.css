@@ -30,7 +30,7 @@ File: Layout CSS
 
 /* Page Intro
 --------------------------------------------------------------------------------------------------------------- */
-#pageintro{padding:250px 0;}
+#pageintro{padding:340px 0;}
 
 #pageintro > div{display:block; max-width:60%;}
 #pageintro > div *{line-height:normal;}
@@ -373,7 +373,7 @@ table a, #comments a{background-color:inherit;}
 	.font-x2{font-size:1.4rem;}
 	.font-x3{font-size:1.6rem;}
 
-	#pageintro{padding:150px 0;}
+	#pageintro{padding:300px 0;}
 	#pageintro > div{max-width:none;}
 	#pageintro .heading{font-size:2.2rem;}
 }
